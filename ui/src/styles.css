@@ -1,0 +1,300 @@
+@import "tailwindcss";
+
+/* Tokens no estilo do Windows 11 (Fluent): claro e escuro seguem o sistema. */
+:root {
+  --bg: #f3f3f3;
+  --panel: #fbfbfb;
+  --panel-2: #ffffff;
+  --sunken: #eeeeee;
+  --line: #e0e0e0;
+  --line-strong: #c9c9c9;
+  --text: #1b1b1b;
+  --muted: #5d5d5d;
+  --faint: #6b6b6b;
+  --accent: #005fb8;
+  --accent-2: #0a6fd0;
+  --accent-text: #ffffff;
+  --accent-soft: #e3eefb;
+  --select: #cce4f7;
+  --select-line: #99c9ef;
+  --hover: #0000000a;
+  --ok: #0f7b0f;
+  --warn: #9d5d00;
+  --danger: #c42b1c;
+  --shadow: 0 8px 32px #00000024, 0 2px 6px #0000001a;
+  /* Ícones coloridos: tons escuros o bastante para 3:1 sobre painéis claros. */
+  --i-add: #2e7d32;
+  --i-extract: #6a3fb5;
+  --i-test: #00796b;
+  --i-view: #1565c0;
+  --i-del: #c62828;
+  --i-conv: #b84f00;
+  --i-info: #0369a1;
+  --i-analyze: #6a1b9a;
+  --i-desktop: #1565c0;
+  --i-docs: #4a55b0;
+  --i-down: #2e7d32;
+  --i-pics: #00796b;
+  --i-folder: #a87c0e;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #202020;
+    --panel: #2b2b2b;
+    --panel-2: #323232;
+    --sunken: #1c1c1c;
+    --line: #3b3b3b;
+    --line-strong: #4f4f4f;
+    --text: #f3f3f3;
+    --muted: #c5c5c5;
+    --faint: #9a9a9a;
+    --accent: #4cc2ff;
+    --accent-2: #62cdff;
+    --accent-text: #001a2b;
+    --accent-soft: #10334a;
+    --select: #0d3a58;
+    --select-line: #1f6797;
+    --hover: #ffffff0f;
+    --ok: #6ccb5f;
+    --warn: #fce100;
+    --danger: #ff99a4;
+    --shadow: 0 8px 32px #00000080, 0 2px 6px #00000060;
+    --i-add: #7fd483;
+    --i-extract: #bb9bff;
+    --i-test: #5fd6c5;
+    --i-view: #74bbf7;
+    --i-del: #ff8f86;
+    --i-conv: #ffad66;
+    --i-info: #5ccaf7;
+    --i-analyze: #d29be0;
+    --i-desktop: #74bbf7;
+    --i-docs: #a6aeff;
+    --i-down: #7fd483;
+    --i-pics: #5fd6c5;
+    --i-folder: #f2c94c;
+    color-scheme: dark;
+  }
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font, "Segoe UI Variable Text"), "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+.font-head {
+  font-family: var(--font-head, var(--font, "Segoe UI Variable Display")), "Segoe UI", system-ui, sans-serif;
+}
+
+.card {
+  border-radius: var(--card-radius, 8px);
+}
+.card-lg {
+  border-radius: calc(var(--card-radius, 8px) + 4px);
+}
+
+input,
+select,
+textarea,
+button {
+  font: inherit;
+  color: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--line-strong);
+  border: 4px solid transparent;
+  background-clip: padding-box;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--faint);
+}
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+.field {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-bottom-color: var(--line-strong);
+  border-radius: var(--field-radius, 4px);
+  padding: 5px 9px;
+  outline: none;
+  min-width: 0;
+}
+.field::placeholder,
+input::placeholder,
+textarea::placeholder {
+  color: var(--faint);
+  opacity: 1;
+}
+.field:focus {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 4px;
+}
+.field:disabled {
+  opacity: 0.55;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  min-height: 30px;
+  padding: 0 14px;
+  border-radius: var(--btn-radius, 4px);
+  border: 1px solid var(--line);
+  border-bottom-color: var(--line-strong);
+  background: var(--panel-2);
+  cursor: default;
+  white-space: nowrap;
+}
+.btn:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--panel-2) 92%, var(--text));
+}
+.btn:active:not(:disabled) {
+  opacity: 0.8;
+}
+.btn:disabled {
+  opacity: 0.45;
+}
+.btn-primary {
+  background: var(--primary-bg, var(--accent));
+  background-size: 200% 100%;
+  border-color: transparent;
+  color: var(--primary-text, var(--accent-text));
+  box-shadow: var(--primary-shadow, none);
+  animation: var(--primary-anim, none);
+  font-weight: 600;
+}
+.btn-primary:hover:not(:disabled) {
+  background: var(--primary-bg, var(--accent-2));
+  background-size: 200% 100%;
+  filter: brightness(1.06);
+}
+.btn-ghost {
+  border-color: transparent;
+  background: transparent;
+}
+.btn-ghost:hover:not(:disabled) {
+  background: var(--hover);
+}
+
+.tool {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  min-width: 64px;
+  padding: 6px 8px 5px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  background: transparent;
+  cursor: default;
+}
+.tool:hover:not(:disabled) {
+  background: var(--hover);
+  border-color: var(--line);
+}
+.tool:disabled {
+  opacity: 0.4;
+}
+.tool span {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.row-sel {
+  background: var(--select) !important;
+  box-shadow: inset 0 0 0 1px var(--select-line);
+}
+
+.check {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  border: 1px solid var(--control-line, color-mix(in srgb, var(--text) 58%, transparent));
+  background: var(--panel-2);
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+}
+.check:checked {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.check:checked::after {
+  content: "";
+  width: 9px;
+  height: 5px;
+  border: 2px solid var(--accent-text);
+  border-top: 0;
+  border-right: 0;
+  transform: translateY(-1px) rotate(-45deg);
+}
+
+.radio {
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 1px solid var(--control-line, color-mix(in srgb, var(--text) 58%, transparent));
+  background: var(--panel-2);
+  flex: none;
+}
+.radio:checked {
+  border: 5px solid var(--accent);
+}
+
+.bar {
+  height: 6px;
+  border-radius: 3px;
+  background: var(--sunken);
+  overflow: hidden;
+}
+.bar > div {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--bar, var(--accent));
+  transition: width 0.2s linear;
+}
+.bar.paused > div {
+  background: var(--warn);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.rise {
+  animation: rise 0.16s ease-out;
+}

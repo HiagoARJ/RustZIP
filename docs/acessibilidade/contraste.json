@@ -1,0 +1,10190 @@
+{
+ "13-adicionar-senha__padrao-claro": [],
+ "13-adicionar-senha__padrao-escuro": [],
+ "13-adicionar-senha__liquid": [],
+ "13-adicionar-senha__aurora": [],
+ "13-adicionar-senha__ferrugem": [],
+ "13-adicionar-senha__bento": [],
+ "13-adicionar-senha__holo": [],
+ "13-adicionar-senha__mesh": [],
+ "13-adicionar-senha__sakura": [],
+ "13-adicionar-senha__constelacao": [],
+ "14-adicionar-avancado__padrao-claro": [],
+ "14-adicionar-avancado__padrao-escuro": [],
+ "14-adicionar-avancado__liquid": [],
+ "14-adicionar-avancado__aurora": [],
+ "14-adicionar-avancado__ferrugem": [],
+ "14-adicionar-avancado__bento": [],
+ "14-adicionar-avancado__holo": [],
+ "14-adicionar-avancado__mesh": [],
+ "14-adicionar-avancado__sakura": [],
+ "14-adicionar-avancado__constelacao": [],
+ "15-extrair__padrao-claro": [],
+ "15-extrair__padrao-escuro": [],
+ "15-extrair__liquid": [],
+ "15-extrair__aurora": [],
+ "15-extrair__ferrugem": [],
+ "15-extrair__bento": [],
+ "15-extrair__holo": [],
+ "15-extrair__mesh": [],
+ "15-extrair__sakura": [],
+ "15-extrair__constelacao": [],
+ "16-progresso__padrao-claro": [],
+ "16-progresso__padrao-escuro": [],
+ "16-progresso__liquid": [],
+ "16-progresso__aurora": [],
+ "16-progresso__ferrugem": [],
+ "16-progresso__bento": [],
+ "16-progresso__holo": [],
+ "16-progresso__mesh": [],
+ "16-progresso__sakura": [],
+ "16-progresso__constelacao": [],
+ "17-concluido__padrao-claro": [],
+ "17-concluido__padrao-escuro": [],
+ "17-concluido__liquid": [],
+ "17-concluido__aurora": [],
+ "17-concluido__ferrugem": [],
+ "17-concluido__bento": [],
+ "17-concluido__holo": [],
+ "17-concluido__mesh": [],
+ "17-concluido__sakura": [],
+ "17-concluido__constelacao": [],
+ "18-pede-senha__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    115,
+    167,
+    216
+   ],
+   "bg": [
+    0,
+    95,
+    184
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    115,
+    167,
+    216
+   ],
+   "bg": [
+    0,
+    95,
+    184
+   ]
+  }
+ ],
+ "18-pede-senha__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    42,
+    118,
+    160
+   ],
+   "bg": [
+    76,
+    194,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    42,
+    118,
+    160
+   ],
+   "bg": [
+    76,
+    194,
+    255
+   ]
+  }
+ ],
+ "18-pede-senha__liquid": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.39,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    156,
+    147,
+    255
+   ],
+   "bg": [
+    75,
+    59,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.39,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    156,
+    147,
+    255
+   ],
+   "bg": [
+    75,
+    59,
+    255
+   ]
+  }
+ ],
+ "18-pede-senha__aurora": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    95,
+    81,
+    149
+   ],
+   "bg": [
+    167,
+    139,
+    250
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    95,
+    81,
+    149
+   ],
+   "bg": [
+    167,
+    139,
+    250
+   ]
+  }
+ ],
+ "18-pede-senha__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.4,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    159,
+    83,
+    25
+   ],
+   "bg": [
+    255,
+    138,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.4,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    159,
+    83,
+    25
+   ],
+   "bg": [
+    255,
+    138,
+    43
+   ]
+  }
+ ],
+ "18-pede-senha__bento": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 4.5,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    127,
+    127,
+    129
+   ],
+   "bg": [
+    23,
+    23,
+    26
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 4.5,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    127,
+    127,
+    129
+   ],
+   "bg": [
+    23,
+    23,
+    26
+   ]
+  }
+ ],
+ "18-pede-senha__holo": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.78,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    96,
+    141,
+    162
+   ],
+   "bg": [
+    154,
+    240,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.78,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    96,
+    141,
+    162
+   ],
+   "bg": [
+    154,
+    240,
+    255
+   ]
+  }
+ ],
+ "18-pede-senha__mesh": [],
+ "18-pede-senha__sakura": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.32,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    214,
+    141,
+    167
+   ],
+   "bg": [
+    181,
+    48,
+    95
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.32,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    214,
+    141,
+    167
+   ],
+   "bg": [
+    181,
+    48,
+    95
+   ]
+  }
+ ],
+ "18-pede-senha__constelacao": [
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.24,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    158,
+    167,
+    242
+   ],
+   "bg": [
+    79,
+    95,
+    232
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "OK",
+   "ratio": 2.24,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    158,
+    167,
+    242
+   ],
+   "bg": [
+    79,
+    95,
+    232
+   ]
+  }
+ ],
+ "02-arquivo__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "02-arquivo__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "02-arquivo__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "02-arquivo__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "02-arquivo__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "02-arquivo__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "02-arquivo__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "02-arquivo__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "02-arquivo__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "02-arquivo__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "04-informacoes__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "04-informacoes__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "04-informacoes__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "04-informacoes__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "04-informacoes__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "04-informacoes__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "04-informacoes__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "04-informacoes__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "04-informacoes__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "04-informacoes__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "06-converter__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    115,
+    167,
+    216
+   ],
+   "bg": [
+    0,
+    95,
+    184
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "06-converter__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    42,
+    118,
+    160
+   ],
+   "bg": [
+    76,
+    194,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "06-converter__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.39,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    156,
+    147,
+    255
+   ],
+   "bg": [
+    75,
+    59,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "06-converter__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.48,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    95,
+    81,
+    149
+   ],
+   "bg": [
+    167,
+    139,
+    250
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "06-converter__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.4,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    159,
+    83,
+    25
+   ],
+   "bg": [
+    255,
+    138,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "06-converter__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 4.5,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    127,
+    127,
+    129
+   ],
+   "bg": [
+    23,
+    23,
+    26
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "06-converter__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.78,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    96,
+    141,
+    162
+   ],
+   "bg": [
+    154,
+    240,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "06-converter__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "06-converter__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.32,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    214,
+    141,
+    167
+   ],
+   "bg": [
+    181,
+    48,
+    95
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "06-converter__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Converter",
+   "ratio": 2.24,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    158,
+    167,
+    242
+   ],
+   "bg": [
+    79,
+    95,
+    232
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "08-excluir__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "08-excluir__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "08-excluir__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "08-excluir__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "08-excluir__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "08-excluir__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "08-excluir__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "08-excluir__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "08-excluir__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "08-excluir__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "09-renomear__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "09-renomear__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "09-renomear__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "09-renomear__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "09-renomear__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "09-renomear__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "09-renomear__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "09-renomear__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "09-renomear__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "09-renomear__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "10-extrair-modal__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "10-extrair-modal__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "10-extrair-modal__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "10-extrair-modal__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "10-extrair-modal__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "10-extrair-modal__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "10-extrair-modal__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "10-extrair-modal__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "10-extrair-modal__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "10-extrair-modal__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ],
+ "11-operacoes__padrao-claro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 1.84,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    188,
+    188,
+    188
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.75,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    169,
+    201,
+    171
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    159,
+    191,
+    227
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    230,
+    167,
+    167
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.17,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    193,
+    161,
+    212
+   ],
+   "bg": [
+    251,
+    251,
+    251
+   ]
+  }
+ ],
+ "11-operacoes__padrao-escuro": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.56,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    105,
+    105,
+    105
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.48,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    77,
+    111,
+    78
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.3,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    101,
+    125
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.2,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    128,
+    83,
+    79
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.22,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    110,
+    88,
+    115
+   ],
+   "bg": [
+    43,
+    43,
+    43
+   ]
+  }
+ ],
+ "11-operacoes__liquid": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.22,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    164,
+    160,
+    190
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.71,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    164,
+    193,
+    173
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.79,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    154,
+    183,
+    230
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.9,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    224,
+    159,
+    169
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.12,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    188,
+    154,
+    215
+   ],
+   "bg": [
+    242,
+    238,
+    255
+   ]
+  }
+ ],
+ "11-operacoes__aurora": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.81,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    85,
+    90,
+    114
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.59,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    94,
+    73
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.43,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    84,
+    120
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    66,
+    74
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.32,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    71,
+    110
+   ],
+   "bg": [
+    11,
+    15,
+    35
+   ]
+  }
+ ],
+ "11-operacoes__ferrugem": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.94,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    117,
+    90,
+    78
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.56,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    72,
+    93,
+    57
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.36,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    67,
+    83,
+    104
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.35,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    123,
+    66,
+    58
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.33,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    105,
+    70,
+    94
+   ],
+   "bg": [
+    35,
+    14,
+    8
+   ]
+  }
+ ],
+ "11-operacoes__bento": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.01,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    183,
+    183,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "11-operacoes__holo": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.21,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    173,
+    170,
+    188
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    170,
+    201,
+    172
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.84,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    160,
+    192,
+    229
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.95,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    231,
+    167,
+    168
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    194,
+    162,
+    214
+   ],
+   "bg": [
+    252,
+    252,
+    254
+   ]
+  }
+ ],
+ "11-operacoes__mesh": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.14,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    178,
+    176,
+    186
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.77,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    203,
+    173
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    230
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.97,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    169,
+    169
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.19,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    164,
+    215
+   ],
+   "bg": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "11-operacoes__sakura": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.04,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    187,
+    179,
+    182
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 1.76,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    171,
+    202,
+    173
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 1.85,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    161,
+    193,
+    229
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 1.96,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    232,
+    168,
+    169
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.18,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    195,
+    163,
+    214
+   ],
+   "bg": [
+    255,
+    254,
+    254
+   ]
+  }
+ ],
+ "11-operacoes__constelacao": [
+  {
+   "kind": "texto",
+   "text": "Adicionar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Visualizar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Excluir",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "texto",
+   "text": "Analisar",
+   "ratio": 2.03,
+   "need": 4.5,
+   "disabled": true,
+   "fg": [
+    64,
+    68,
+    92
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-file-plus2",
+   "ratio": 2.58,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    57,
+    92,
+    67
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-eye",
+   "ratio": 2.41,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    53,
+    82,
+    114
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-trash2",
+   "ratio": 2.29,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    108,
+    64,
+    68
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  },
+  {
+   "kind": "ícone",
+   "text": "lucide-chart-column",
+   "ratio": 2.31,
+   "need": 3,
+   "disabled": true,
+   "fg": [
+    90,
+    69,
+    104
+   ],
+   "bg": [
+    11,
+    12,
+    25
+   ]
+  }
+ ]
+}

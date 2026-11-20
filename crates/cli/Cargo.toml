@@ -1,0 +1,15 @@
+[package]
+name = "rustzip-cli"
+description = "RustZIP em linha de comando (rz.exe): a, x, e, l, t, d, rn, c"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+
+[[bin]]
+name = "rz"
+path = "src/main.rs"
+
+[dependencies]
+rustzip-core = { path = "../core" }

@@ -1,0 +1,22 @@
+[workspace]
+resolver = "3"
+members = ["crates/core", "crates/cli", "crates/shell", "tools/iconkit", "src-tauri"]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+authors = ["Jose Hiago Araujo da Costa"]
+repository = "https://github.com/HiagoARJ/RustZIP"
+homepage = "https://github.com/HiagoARJ/RustZIP"
+
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3
+
+[profile.release]
+lto = "thin"
+strip = true
+codegen-units = 4

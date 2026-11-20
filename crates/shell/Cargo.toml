@@ -1,0 +1,27 @@
+[package]
+name = "rustzip-shell"
+description = "Submenu RustZIP no menu de contexto do Explorer (IExplorerCommand; menu do Windows 11 e menu clássico)"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+
+[lib]
+name = "rustzip_shell"
+crate-type = ["cdylib"]
+
+[dependencies]
+serde_json = "1.0.145"
+windows-core = "0.62.2"
+windows = { version = "0.62.2", features = [
+    "Win32_Foundation",
+    "Win32_Graphics_Gdi",
+    "Win32_System_Com",
+    "Win32_System_LibraryLoader",
+    "Win32_System_SystemServices",
+    "Win32_UI_Shell",
+    "Win32_UI_Shell_Common",
+    "Win32_UI_Shell_PropertiesSystem",
+    "Win32_UI_WindowsAndMessaging",
+] }

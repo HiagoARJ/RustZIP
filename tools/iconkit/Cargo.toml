@@ -1,0 +1,17 @@
+[package]
+name = "iconkit"
+description = "Gera os ícones do RustZIP: PNG -> AVIF (mestre) -> ICO/PNGs decodificados do AVIF"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+repository.workspace = true
+publish = false
+
+[dependencies]
+image = { version = "0.25.10", default-features = false, features = ["png"] }
+ravif = { version = "0.13.0", default-features = false, features = ["threading"] }
+rgb = "0.8"
+ico = "0.6.0"
+jxl-oxide = "0.12.6"
+windows = { version = "0.62.2", features = ["Win32_Foundation", "Win32_System_Com", "Win32_Graphics_Imaging"] }

@@ -1,0 +1,24 @@
+# Rust
+/target/
+
+# Interface
+/ui/node_modules/
+/ui/dist/
+*.log
+
+# Tauri (regenerado no build)
+/src-tauri/gen/
+
+# Pacotes e releases gerados (o certificado .pfx/chave nunca deve entrar)
+/packaging/out/
+*.pfx
+*.p12
+
+# Arquivos em uso renomeados pelo deploy
+*.old
+*.old.*
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,501 @@
+/* Temas do RustZIP. O "Padrão" são as variáveis de styles.css (segue o sistema); cada tema aqui
+   troca as mesmas variáveis e, com [data-theme], a interface vira painéis flutuando sobre o
+   cenário (ThemeScene em theme.tsx). Cores, fontes, raios e animações vêm dos temas 01, 02, 03,
+   05, 10, 21 e 22 do catálogo "Temas modernos — Rust + React" e do Constelação do Attack Shark. */
+
+/* ---------- 01 · Liquid Glass ---------- */
+html[data-theme="liquid"] {
+  --scene-bg: linear-gradient(135deg, #c9d6ff 0%, #e2c9ff 45%, #ffd1dc 100%);
+  --bg: #ece6ff;
+  --panel: rgba(255, 255, 255, 0.32);
+  --panel-2: rgba(255, 255, 255, 0.42);
+  --sunken: rgba(255, 255, 255, 0.5);
+  --line: rgba(255, 255, 255, 0.65);
+  --line-strong: rgba(27, 23, 64, 0.22);
+  --text: #1b1740;
+  --muted: #2f2a5c;
+  --faint: #4a4578;
+  --accent: #4b3bff;
+  --accent-2: #3a2bd9;
+  --accent-text: #ffffff;
+  --accent-soft: rgba(75, 59, 255, 0.14);
+  --select: rgba(75, 59, 255, 0.18);
+  --select-line: rgba(75, 59, 255, 0.45);
+  --hover: rgba(255, 255, 255, 0.35);
+  --ok: #0b6b35;
+  --warn: #9d5d00;
+  --danger: #c42b1c;
+  --shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 20px 40px rgba(40, 30, 90, 0.18);
+  --pane-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8), 0 20px 40px rgba(40, 30, 90, 0.14);
+  --glass: blur(24px) saturate(180%);
+  --font: "Manrope";
+  --font-head: "Manrope";
+  --card-radius: 22px;
+  --btn-radius: 999px;
+  --field-radius: 14px;
+  --primary-bg: #4b3bff;
+  --primary-shadow: 0 10px 24px rgba(75, 59, 255, 0.4);
+  --bar: linear-gradient(90deg, #4b3bff, #ff5fa8);
+  color-scheme: light;
+}
+
+/* ---------- 02 · Aurora ---------- */
+html[data-theme="aurora"] {
+  --scene-bg: #070b1a;
+  --bg: #0d1228;
+  --panel: rgba(13, 18, 40, 0.62);
+  --panel-2: rgba(13, 18, 40, 0.5);
+  --sunken: rgba(255, 255, 255, 0.08);
+  --line: rgba(255, 255, 255, 0.14);
+  --line-strong: rgba(255, 255, 255, 0.25);
+  --text: #eef1ff;
+  --muted: #c5cbea;
+  --faint: #a9b1d6;
+  --accent: #67e8f9;
+  --accent-2: #a5f3fc;
+  --accent-text: #070b1a;
+  --accent-soft: rgba(124, 92, 255, 0.25);
+  --select: rgba(103, 232, 249, 0.16);
+  --select-line: rgba(103, 232, 249, 0.45);
+  --hover: rgba(255, 255, 255, 0.07);
+  --ok: #6ef7c0;
+  --warn: #fcd34d;
+  --danger: #fda4af;
+  --shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+  --glass: blur(18px);
+  --font: "Inter";
+  --font-head: "Space Grotesk";
+  --card-radius: 20px;
+  --btn-radius: 12px;
+  --field-radius: 12px;
+  --primary-bg: linear-gradient(90deg, #a78bfa, #67e8f9, #6ef7c0, #a78bfa);
+  --primary-text: #070b1a;
+  --primary-shadow: 0 0 28px rgba(124, 92, 255, 0.55);
+  --primary-anim: rz-shift 4s linear infinite;
+  --bar: linear-gradient(90deg, #a78bfa, #67e8f9);
+  color-scheme: dark;
+}
+
+/* ---------- 03 · Ferrugem ---------- */
+html[data-theme="ferrugem"] {
+  --scene-bg: linear-gradient(160deg, #1a0b06 0%, #2b1009 55%, #47180a 100%);
+  --bg: #220e08;
+  --panel: rgba(34, 14, 8, 0.72);
+  --panel-2: rgba(34, 14, 8, 0.6);
+  --sunken: rgba(255, 160, 90, 0.14);
+  --line: rgba(255, 160, 90, 0.28);
+  --line-strong: rgba(255, 160, 90, 0.45);
+  --text: #fff1e6;
+  --muted: #f0cdb8;
+  --faint: #e0b79e;
+  --accent: #ff8a2b;
+  --accent-2: #ffc06a;
+  --accent-text: #2a0f04;
+  --accent-soft: rgba(255, 106, 26, 0.2);
+  --select: rgba(255, 138, 43, 0.22);
+  --select-line: rgba(255, 160, 90, 0.6);
+  --hover: rgba(255, 160, 90, 0.08);
+  --ok: #9be37a;
+  --warn: #ffd08a;
+  --danger: #ff9b8a;
+  --shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+  --pane-shadow: 0 24px 48px rgba(0, 0, 0, 0.35);
+  --glass: blur(14px);
+  --font: "Sora";
+  --font-head: "Sora";
+  --card-radius: 16px;
+  --btn-radius: 10px;
+  --field-radius: 10px;
+  --primary-bg: linear-gradient(90deg, #ff8a2b, #ffc06a, #ff8a2b);
+  --primary-text: #2a0f04;
+  --primary-shadow: 0 8px 28px rgba(255, 106, 26, 0.5);
+  --primary-anim: rz-shift 5s linear infinite;
+  --bar: linear-gradient(90deg, #ff6a1a, #ffd08a);
+  color-scheme: dark;
+}
+
+/* ---------- 05 · Bento Claro ---------- */
+html[data-theme="bento"] {
+  --scene-bg: #f1f1ec;
+  --bg: #f1f1ec;
+  --panel: #ffffff;
+  --panel-2: #ffffff;
+  --sunken: #edede7;
+  --line: #e4e4dd;
+  --line-strong: #d9d9d2;
+  --text: #17171a;
+  --muted: #4a4a52;
+  --faint: #5c5c66;
+  --accent: #2f6bff;
+  --accent-2: #1f56e0;
+  --accent-text: #ffffff;
+  --accent-soft: #e6edff;
+  --select: #dce6ff;
+  --select-line: #9db8ff;
+  --hover: rgba(23, 23, 26, 0.05);
+  --ok: #166b2f;
+  --warn: #9a6700;
+  --danger: #cf222e;
+  --shadow: 0 1px 2px rgba(23, 23, 26, 0.05), 0 28px 56px rgba(23, 23, 26, 0.14);
+  --pane-shadow: 0 1px 2px rgba(23, 23, 26, 0.05), 0 16px 40px rgba(23, 23, 26, 0.07);
+  --glass: none;
+  --font: "Instrument Sans";
+  --font-head: "Instrument Sans";
+  --card-radius: 22px;
+  --btn-radius: 14px;
+  --field-radius: 14px;
+  --primary-bg: #17171a;
+  --primary-text: #ffffff;
+  --bar: #2f6bff;
+  color-scheme: light;
+}
+
+/* ---------- 10 · Holográfico ---------- */
+html[data-theme="holo"] {
+  --scene-bg: #f2f0f8;
+  --bg: #f2f0f8;
+  --panel: rgba(255, 255, 255, 0.8);
+  --panel-2: rgba(255, 255, 255, 0.86);
+  --sunken: #e6e2f3;
+  --line: #dad4ee;
+  --line-strong: #cfc8e8;
+  --text: #1a1530;
+  --muted: #37305a;
+  --faint: #4d4670;
+  --accent: #5a3fe0;
+  --accent-2: #4a31c9;
+  --accent-text: #ffffff;
+  --accent-soft: rgba(150, 110, 255, 0.16);
+  --select: rgba(150, 110, 255, 0.2);
+  --select-line: #b79cff;
+  --hover: rgba(90, 63, 224, 0.06);
+  --ok: #13714f;
+  --warn: #8a5a00;
+  --danger: #c4224e;
+  --shadow: 0 18px 40px rgba(90, 63, 224, 0.18);
+  --pane-shadow: 0 18px 40px rgba(90, 63, 224, 0.12);
+  --glass: blur(12px);
+  --font: "Plus Jakarta Sans";
+  --font-head: "Plus Jakarta Sans";
+  --card-radius: 22px;
+  --btn-radius: 12px;
+  --field-radius: 12px;
+  --primary-bg: linear-gradient(90deg, #9af0ff, #c9b6ff, #ffbde6, #fff1a6, #9af0ff);
+  --primary-text: #1a1530;
+  --primary-shadow: 0 8px 20px rgba(150, 110, 255, 0.35);
+  --primary-anim: rz-shift 6s linear infinite;
+  --bar: linear-gradient(90deg, #6fdbff, #a98bff, #ff8fd0);
+  color-scheme: light;
+}
+
+/* ---------- 21 · Mesh ---------- */
+html[data-theme="mesh"] {
+  --scene-bg: #3a16b8;
+  --bg: #f6f4fb;
+  --panel: #ffffff;
+  --panel-2: #ffffff;
+  --sunken: #eeebf7;
+  --line: #e4e0f0;
+  --line-strong: #d8d4e8;
+  --text: #14121f;
+  --muted: #3e3a52;
+  --faint: #4f4a66;
+  --accent: #5b2bff;
+  --accent-2: #4b1fd1;
+  --accent-text: #ffffff;
+  --accent-soft: #ece6ff;
+  --select: #e2d9ff;
+  --select-line: #a98bff;
+  --hover: rgba(20, 18, 31, 0.05);
+  --ok: #13714f;
+  --warn: #9a5b00;
+  --danger: #c2185b;
+  --shadow: 0 30px 60px rgba(20, 10, 60, 0.35);
+  --pane-shadow: 0 30px 60px rgba(20, 10, 60, 0.3);
+  --glass: none;
+  --font: "Inter";
+  --font-head: "Unbounded";
+  --card-radius: 26px;
+  --btn-radius: 999px;
+  --field-radius: 999px;
+  --primary-bg: #14121f;
+  --primary-text: #ffffff;
+  --bar: linear-gradient(90deg, #5b2bff, #c2185b, #ff6a3d, #00b8d9, #5b2bff);
+  color-scheme: light;
+}
+
+/* ---------- 22 · Sakura ---------- */
+html[data-theme="sakura"] {
+  --scene-bg: linear-gradient(180deg, #fff8f9 0%, #fce6ec 100%);
+  --bg: #fff8f9;
+  --panel: rgba(255, 255, 255, 0.88);
+  --panel-2: rgba(255, 255, 255, 0.9);
+  --sunken: #f6d5de;
+  --line: #f1c6d2;
+  --line-strong: #e9b3c3;
+  --text: #3a2a30;
+  --muted: #55424a;
+  --faint: #6b5560;
+  --accent: #b5305f;
+  --accent-2: #a52a57;
+  --accent-text: #ffffff;
+  --accent-soft: #fbe3ea;
+  --select: #f9d3df;
+  --select-line: #e9a0b6;
+  --hover: rgba(181, 48, 95, 0.06);
+  --ok: #2f7d4f;
+  --warn: #8f5a00;
+  --danger: #b5305f;
+  --shadow: 0 16px 36px rgba(165, 42, 87, 0.12);
+  --pane-shadow: 0 16px 36px rgba(165, 42, 87, 0.1);
+  --glass: blur(6px);
+  --font: "Zen Maru Gothic";
+  --font-head: "Shippori Mincho";
+  --card-radius: 16px;
+  --btn-radius: 999px;
+  --field-radius: 10px;
+  --primary-bg: #b5305f;
+  --primary-text: #ffffff;
+  --bar: #b5305f;
+  color-scheme: light;
+}
+
+/* ---------- Constelação (Attack Shark) ---------- */
+html[data-theme="constelacao"] {
+  --scene-bg: #05060d;
+  --bg: #0f1124;
+  --panel: rgb(16 18 36 / 0.5);
+  --panel-2: rgb(26 29 52 / 0.55);
+  --sunken: rgb(170 180 255 / 0.15);
+  --line: rgb(160 170 255 / 0.14);
+  --line-strong: rgb(160 170 255 / 0.3);
+  --text: #eceeff;
+  --muted: #9197c0;
+  --faint: #9399c4;
+  --accent: #6d7dff;
+  --accent-2: #9aa5ff;
+  --accent-text: #ffffff;
+  --accent-soft: rgb(109 125 255 / 0.2);
+  --select: rgb(109 125 255 / 0.25);
+  --select-line: rgb(154 165 255 / 0.55);
+  --hover: rgb(255 255 255 / 0.06);
+  --ok: #7ee2a8;
+  --warn: #ffd479;
+  --danger: #ff9aa8;
+  --shadow: 0 20px 50px rgb(0 0 0 / 0.55);
+  --glass: blur(10px);
+  --card-radius: 14px;
+  --btn-radius: 8px;
+  --field-radius: 8px;
+  --bar: linear-gradient(90deg, #6d7dff, #9aa5ff);
+  --primary-bg: #4f5fe8;
+  --primary-text: #ffffff;
+  color-scheme: dark;
+}
+
+/* ---------- ícones coloridos nos temas claros ---------- */
+html[data-theme="liquid"],
+html[data-theme="bento"],
+html[data-theme="holo"],
+html[data-theme="mesh"],
+html[data-theme="sakura"] {
+  --i-add: #2e7d32;
+  --i-extract: #6a3fb5;
+  --i-test: #00796b;
+  --i-view: #1565c0;
+  --i-del: #c62828;
+  --i-conv: #b84f00;
+  --i-info: #0369a1;
+  --i-analyze: #6a1b9a;
+  --i-desktop: #1565c0;
+  --i-docs: #4a55b0;
+  --i-down: #2e7d32;
+  --i-pics: #00796b;
+  --i-folder: #a87c0e;
+}
+
+/* ---------- ícones coloridos nos temas escuros ---------- */
+html[data-theme="aurora"],
+html[data-theme="ferrugem"],
+html[data-theme="constelacao"] {
+  --i-add: #7fd483;
+  --i-extract: #bb9bff;
+  --i-test: #5fd6c5;
+  --i-view: #74bbf7;
+  --i-del: #ff8f86;
+  --i-conv: #ffad66;
+  --i-info: #5ccaf7;
+  --i-analyze: #d29be0;
+  --i-desktop: #74bbf7;
+  --i-docs: #a6aeff;
+  --i-down: #7fd483;
+  --i-pics: #5fd6c5;
+  --i-folder: #f2c94c;
+}
+
+/* ---------- estrutura comum aos temas ---------- */
+
+html[data-theme] {
+  background: var(--scene-bg);
+}
+html[data-theme] body {
+  background: transparent;
+}
+/* Painéis do gerenciador flutuam sobre o cenário. */
+html[data-theme] .app-shell {
+  padding: 10px;
+  gap: 10px;
+}
+html[data-theme] .app-row {
+  gap: 10px;
+}
+html[data-theme] .app-pane {
+  border: 1px solid var(--line) !important;
+  border-radius: var(--card-radius);
+  box-shadow: var(--pane-shadow, none);
+  overflow: hidden;
+}
+html[data-theme] .glass {
+  backdrop-filter: var(--glass);
+  -webkit-backdrop-filter: var(--glass);
+}
+
+/* ---------- cenários ---------- */
+
+.scene {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+  pointer-events: none;
+}
+.scene .blob,
+.scene .ember {
+  position: absolute;
+  border-radius: 50%;
+}
+.scene .blob {
+  filter: blur(70px);
+}
+.float {
+  animation: rz-float 9s ease-in-out infinite;
+}
+.drift {
+  animation: rz-drift 14s ease-in-out infinite;
+}
+.pulse {
+  animation: rz-pulse 6s ease-in-out infinite;
+}
+.rev {
+  animation-direction: reverse;
+  animation-duration: 12s;
+}
+.mesh-a {
+  animation: rz-mesh-a 11s ease-in-out infinite;
+}
+.mesh-b {
+  animation: rz-mesh-b 15s ease-in-out infinite;
+}
+@keyframes rz-float {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(40px, -30px) scale(1.12); }
+}
+@keyframes rz-drift {
+  0%, 100% { transform: translate(0, 0) rotate(0deg); }
+  50% { transform: translate(-50px, 30px) rotate(12deg); }
+}
+@keyframes rz-pulse {
+  0%, 100% { transform: scale(1); opacity: 0.55; }
+  50% { transform: scale(1.18); opacity: 0.8; }
+}
+@keyframes rz-mesh-a {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(120px, 60px) scale(1.25); }
+}
+@keyframes rz-mesh-b {
+  0%, 100% { transform: translate(0, 0) scale(1.1); }
+  50% { transform: translate(-140px, -50px) scale(0.9); }
+}
+@keyframes rz-shift {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
+
+.holo-wrap {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 78vmax;
+  height: 78vmax;
+  margin: -39vmax 0 0 -39vmax;
+  filter: blur(60px);
+  animation: rz-hue 12s linear infinite;
+}
+.holo-disc {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, #9af0ff, #c9b6ff, #ffbde6, #fff1a6, #a8ffd8, #9af0ff);
+  opacity: 0.9;
+  animation: rz-spin 24s linear infinite;
+}
+@keyframes rz-hue {
+  to { filter: blur(60px) hue-rotate(360deg); }
+}
+@keyframes rz-spin {
+  to { transform: rotate(360deg); }
+}
+
+.sakura-sun {
+  position: absolute;
+  right: 30%;
+  top: -14vh;
+  width: 34vh;
+  height: 34vh;
+  border-radius: 50%;
+  background: #f9c6d4;
+  animation: rz-sway 8s ease-in-out infinite;
+}
+.petal {
+  position: absolute;
+  top: -20px;
+  border-radius: 80% 0 80% 0;
+  background: #f28fae;
+  animation: rz-fall linear infinite;
+}
+.petal:nth-child(odd) {
+  background: #f7a8c0;
+}
+@keyframes rz-sway {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
+}
+@keyframes rz-fall {
+  0% { transform: translate(0, -40px) rotate(0deg); }
+  100% { transform: translate(-120px, 110vh) rotate(300deg); }
+}
+
+.constellation-glow {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 15%, rgb(70 80 220 / 0.28), transparent 45%),
+    radial-gradient(circle at 85% 80%, rgb(150 60 220 / 0.2), transparent 45%);
+  animation: constellation-drift 18s ease-in-out infinite alternate;
+}
+.constellation-glow + canvas {
+  position: absolute;
+  inset: 0;
+}
+@keyframes constellation-drift {
+  to { transform: scale(1.15) translate(2%, -2%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scene *,
+  .rise,
+  .btn-primary {
+    animation: none !important;
+  }
+}
